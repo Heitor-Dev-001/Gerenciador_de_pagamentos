@@ -1,7 +1,7 @@
 # Gerenciador_de_pagamentos
 Exercício de um Gerenciador de pagamentos em Python, programa ainda ser interface, somente a lógica.
 
-##Elabore um programa que calcule o valor a ser pago por um produto
+#Elabore um programa que calcule o valor a ser pago por um produto
 #Considerando que o seu preço normal e as condição de pagamento abaixo:
 
 #Á vista dinheiro/cheque: 10% de desconto
