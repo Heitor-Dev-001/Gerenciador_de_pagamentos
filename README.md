@@ -12,11 +12,3 @@ Exercício de um Gerenciador de pagamentos em Python, programa ainda ser interfa
 #Em até 2x no cartão: Preço normal
 
 #3x ou mais no cartão: 20% de juros 
-
-    print('Sua compra será parcelada em {}x de R${:.2f} COM JUROS'.format(quantidade_parcelas,parcela))
-    valor_final = total
-else:
-    total = 0
-    print(' \033[4;31;41m Opção inválida de pagamento, FAVOR TENTE NOVAMENTE \033[m')
-
-print('Fim do programa')
